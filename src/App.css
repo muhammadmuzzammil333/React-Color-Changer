@@ -1,0 +1,77 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+
+#allBttn {
+  margin-top: 80vh;
+  margin-left: 11vh;
+  margin-right: 11vh;
+
+}
+
+#allBttn div {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5vh;
+}
+
+button {
+  margin-left: 29px;
+  border: none;
+  width: 12vh;
+  padding: 1vh;
+  border-radius: 2vh;
+  cursor: pointer;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+.RedBttn {
+  background-color: red;
+}
+
+.GreenBttn {
+  background-color: green;
+}
+
+.BlueBttn {
+  background-color: blue;
+}
+
+.OliveBttn {
+  background-color: olive;
+}
+
+.GreyBttn {
+  background-color: grey;
+}
+
+.YellowBttn {
+  background-color: yellow;
+}
+
+.PinkBttn {
+  background-color: pink;
+}
+
+.PurpleBttn {
+  background-color: purple;
+}
+
+.LavenderBttn{
+  width: 14vh;
+  background-color: lavender;
+}
+
+.WhiteBttn {
+  background-color: white;
+  border: black 2px solid;
+}
+
+.BlackBttn {
+  background-color: black;
+  color: white;
+}
